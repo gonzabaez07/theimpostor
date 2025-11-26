@@ -6,7 +6,7 @@
 'Bosque',
 'Desierto',
 'Selva',
-'Rio',
+'Río',
 'Lago',
 'Océano',
 'Isla',
