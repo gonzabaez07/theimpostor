@@ -92,4 +92,5 @@ const clashroyale = [
 'Berserker',
 'Bandida Líder',
 'Demoledor Duende',
-'Fénix',]
+'Fénix'
+]
